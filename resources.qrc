@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/keng.png</file>
+        <file>Resources/bullet.png</file>
+        <file>Resources/enemy.png</file>
+        <file>Resources/gameback.jpg</file>
+        <file>Resources/app.ico</file>
+        <file>Resources/akx.png</file>
+        <file>Resources/dl.png</file>
+        <file>Resources/sy.png</file>
+    </qresource>
+</RCC>
